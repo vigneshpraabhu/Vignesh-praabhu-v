@@ -1,0 +1,8 @@
+{
+  "name": "ResQLink - Emergency Response & Disaster Management Platform",
+  "description": "Centralized disaster-response platform connecting citizens, volunteers, government authorities, and resource providers during floods, cyclones, and emergencies.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
